@@ -17,8 +17,8 @@ for DIR in "${DIRS[@]}"; do
 done
 
 echo "Checking Git config directory:"
-if [ -d "$HOME/.gitconfig" ]; then
-    ls -ld $HOME/.gitconfig
+if [ -f "$HOME/.gitconfig" ]; then
+    ls -l $HOME/.gitconfig
 else
-    echo "Git config not found"
+    echo "Git config file not found"
 fi
