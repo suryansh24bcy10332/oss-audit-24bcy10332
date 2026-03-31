@@ -3,7 +3,7 @@
 # This script displays basic information about the Linux system
 
 # ----------- USER DETAILS -----------
-STUDENT_NAME="Your Name"         # Store your name
+STUDENT_NAME="Suryansh Balani"         # Store your name
 SOFTWARE_CHOICE="Git"            # Store chosen software name
 
 # ----------- SYSTEM INFO COMMANDS -----------
