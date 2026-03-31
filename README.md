@@ -27,4 +27,4 @@ This script takes input from the user and generates a personalized open-source p
 
 ```bash
 chmod +x script1.sh
-./script1.sh
+./'script 1.sh'
